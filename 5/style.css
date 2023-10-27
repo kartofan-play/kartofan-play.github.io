@@ -1,0 +1,31 @@
+h1{
+font-family: Kablammo, cursive;
+text-align: center;
+color: darkblue;
+text-shadow: 0px 0px 7px rgb(213, 222, 249), 0px 0px 5px rgb(0, 0, 255), 0px 0px 3px rgb(255, 255, 255);
+font-size: 3em;
+}
+a{
+    font-family: Kablammo, cursive;
+text-decoration: none;
+color: darkblue;
+transition: 0.5s;
+font-size: 1.2em;
+}
+a:hover{
+letter-spacing: 3px;
+color: crimson;
+}
+.menu-item{
+background-color: #dbf5ff;
+margin: 3px;
+padding: 10px;
+text-align: center;
+}
+img{
+width: 80%;
+margin: 20px;
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
